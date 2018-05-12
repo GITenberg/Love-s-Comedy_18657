@@ -1,0 +1,41 @@
+_repo: Love-s-Comedy_18657
+_version: 0.1.0
+alternative_title: Kærlighedens Komedie. English
+contributor:
+  translator:
+    agent_name: Herford, C. H. (Charles Harold)
+    alias: Herford, Charles Harold
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '5599'
+    url: http://www.gutenberg.org/2009/agents/5599
+    wikipedia: http://en.wikipedia.org/wiki/C._H._Herford
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: This is an electronic edition of the complete book complemented by author
+  biography. This book features a table of contents linked to every chapter. The book
+  was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
+  readers. It is formatted to display on all electronic devices including the Kindle,
+  Smartphones and other Mobile Devices with a small display.
+gutenberg_issued: '2006-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian drama -- Translations into English'
+- !lcc 'PT'
+title: Love's Comedy
+url: http://www.gutenberg.org/ebooks/18657
